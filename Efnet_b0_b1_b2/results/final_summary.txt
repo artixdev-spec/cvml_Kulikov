@@ -1,0 +1,7 @@
+Сравнение моделей EfficientNet
+
+efficientnet_b0: best_val_acc=1.0000, test_acc=1.0000
+efficientnet_b1: best_val_acc=1.0000, test_acc=1.0000
+efficientnet_b2: best_val_acc=1.0000, test_acc=1.0000
+
+Лучшая модель: efficientnet_b0 с test_acc=1.0000
